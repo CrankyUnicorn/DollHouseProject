@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: de324170ae53fd743960cd90c09b7fca
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Coventry Garden NF
+  fontNames:
+  - Coventry Garden NF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a0927e417ef3d6c48a4b20e1919b26c3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

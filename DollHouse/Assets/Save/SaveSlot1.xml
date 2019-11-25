@@ -1,0 +1,1648 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Story xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Unlock>false</Unlock>
+  <Able>false</Able>
+  <Schedual />
+  <RequiredReputation>0</RequiredReputation>
+  <RequiredNotoriety>0</RequiredNotoriety>
+  <RequiredLuxury>0</RequiredLuxury>
+  <RequiredTier>0</RequiredTier>
+  <Happiness>0</Happiness>
+  <Resilience>0</Resilience>
+  <Money>0</Money>
+  <InventoryType>PersonalItem</InventoryType>
+  <Inventory>
+    <Item>
+      <ID>31</ID>
+      <Name>Lint Ball</Name>
+      <Description>It's a simple lint ball. Nothing special about it</Description>
+      <Unlock>true</Unlock>
+      <Able>true</Able>
+      <Unsellable>false</Unsellable>
+      <InventoryType>PersonalItem</InventoryType>
+      <Quantity>1</Quantity>
+      <BuyPrice>0</BuyPrice>
+      <SellPrice>0</SellPrice>
+      <ProductionBatch>0</ProductionBatch>
+      <ProductionCost>0</ProductionCost>
+      <RisesHappines>0</RisesHappines>
+      <Modifiers />
+      <ModifiersValues />
+    </Item>
+    <Item>
+      <ID>32</ID>
+      <Name>Empty Bottle</Name>
+      <Description>Yeah! Perfect to be fill up with booze.</Description>
+      <Unlock>true</Unlock>
+      <Able>true</Able>
+      <Unsellable>false</Unsellable>
+      <InventoryType>PersonalItem</InventoryType>
+      <Quantity>1</Quantity>
+      <BuyPrice>0</BuyPrice>
+      <SellPrice>0</SellPrice>
+      <ProductionBatch>0</ProductionBatch>
+      <ProductionCost>0</ProductionCost>
+      <RisesHappines>0</RisesHappines>
+      <Modifiers />
+      <ModifiersValues />
+    </Item>
+    <Item>
+      <ID>33</ID>
+      <Name>Moonshine</Name>
+      <Description>Best way to wake up in the morning with an hangover and a fresh tattoo.</Description>
+      <Unlock>true</Unlock>
+      <Able>true</Able>
+      <Unsellable>false</Unsellable>
+      <InventoryType>PersonalItem</InventoryType>
+      <Quantity>1</Quantity>
+      <BuyPrice>0</BuyPrice>
+      <SellPrice>3</SellPrice>
+      <ProductionBatch>10</ProductionBatch>
+      <ProductionCost>1</ProductionCost>
+      <RisesHappines>3</RisesHappines>
+      <Modifiers />
+      <ModifiersValues />
+    </Item>
+    <Item>
+      <ID>34</ID>
+      <Name>Cheap Wine</Name>
+      <Description>Was good as the price.</Description>
+      <Unlock>true</Unlock>
+      <Able>true</Able>
+      <Unsellable>false</Unsellable>
+      <InventoryType>PersonalItem</InventoryType>
+      <Quantity>1</Quantity>
+      <BuyPrice>0</BuyPrice>
+      <SellPrice>5</SellPrice>
+      <ProductionBatch>10</ProductionBatch>
+      <ProductionCost>2</ProductionCost>
+      <RisesHappines>4</RisesHappines>
+      <Modifiers />
+      <ModifiersValues />
+    </Item>
+    <Item>
+      <ID>35</ID>
+      <Name>Key</Name>
+      <Description>Looks like a door key</Description>
+      <Unlock>true</Unlock>
+      <Able>true</Able>
+      <Unsellable>false</Unsellable>
+      <InventoryType>PersonalItem</InventoryType>
+      <Quantity>1</Quantity>
+      <BuyPrice>0</BuyPrice>
+      <SellPrice>0</SellPrice>
+      <ProductionBatch>0</ProductionBatch>
+      <ProductionCost>0</ProductionCost>
+      <RisesHappines>0</RisesHappines>
+      <Modifiers />
+      <ModifiersValues />
+    </Item>
+  </Inventory>
+  <BirthdayDay>0</BirthdayDay>
+  <FavoriteGifts />
+  <IncapacitatedTicks>0</IncapacitatedTicks>
+  <DialogsContainer>
+    <Dialog>
+      <DialogContainer>
+        <DialogLine>
+          <ID>0</ID>
+          <Name>Brackey</Name>
+          <Content>gfuygiuhygui</Content>
+          <Background>TestBG</Background>
+          <EndConversation>false</EndConversation>
+          <Body3>char</Body3>
+          <OptionValue1>0</OptionValue1>
+          <OptionConditionValue1>0</OptionConditionValue1>
+          <OptionValue2>0</OptionValue2>
+          <OptionConditionValue2>0</OptionConditionValue2>
+          <OptionValue3>0</OptionValue3>
+          <OptionConditionValue3>0</OptionConditionValue3>
+          <OptionValue4>0</OptionValue4>
+          <OptionConditionValue4>0</OptionConditionValue4>
+        </DialogLine>
+        <DialogLine>
+          <ID>0</ID>
+          <Name>Brackey</Name>
+          <Content>Are you up to it? &gt;.&lt;</Content>
+          <Background>TestBG</Background>
+          <EndConversation>false</EndConversation>
+          <Body3>char</Body3>
+          <OptionValue1>0</OptionValue1>
+          <OptionConditionValue1>0</OptionConditionValue1>
+          <OptionValue2>0</OptionValue2>
+          <OptionConditionValue2>0</OptionConditionValue2>
+          <OptionValue3>0</OptionValue3>
+          <OptionConditionValue3>0</OptionConditionValue3>
+          <OptionValue4>0</OptionValue4>
+          <OptionConditionValue4>0</OptionConditionValue4>
+        </DialogLine>
+        <DialogLine>
+          <ID>0</ID>
+          <Name>Brackey</Name>
+          <Content>Of course you are, just be careful with typos -_-'</Content>
+          <Background>TestBG</Background>
+          <EndConversation>false</EndConversation>
+          <Body3>char</Body3>
+          <OptionValue1>0</OptionValue1>
+          <OptionConditionValue1>0</OptionConditionValue1>
+          <OptionValue2>0</OptionValue2>
+          <OptionConditionValue2>0</OptionConditionValue2>
+          <OptionValue3>0</OptionValue3>
+          <OptionConditionValue3>0</OptionConditionValue3>
+          <OptionValue4>0</OptionValue4>
+          <OptionConditionValue4>0</OptionConditionValue4>
+        </DialogLine>
+      </DialogContainer>
+      <ID>2</ID>
+      <LockedDialog>false</LockedDialog>
+      <IfTick>1</IfTick>
+      <IfHour>0</IfHour>
+      <IfDay>0</IfDay>
+      <IfYear>0</IfYear>
+      <ShowTimes>false</ShowTimes>
+      <ShowTimesX>0</ShowTimesX>
+      <TimesShown>0</TimesShown>
+      <IfCharisma>0</IfCharisma>
+      <IfFame>0</IfFame>
+      <IfFlatter>0</IfFlatter>
+      <IfWit>0</IfWit>
+      <IfPersuasion>0</IfPersuasion>
+      <IfBargain>0</IfBargain>
+      <IfBirthdayDay>false</IfBirthdayDay>
+      <IfCharacterUnlock>false</IfCharacterUnlock>
+      <IfCharacterAble>false</IfCharacterAble>
+      <IfCharacterBirthdayDay>false</IfCharacterBirthdayDay>
+      <IfCharacterRelationship>0</IfCharacterRelationship>
+      <IfCharacterIntimacy>0</IfCharacterIntimacy>
+      <IfCharacterLoyalty>0</IfCharacterLoyalty>
+      <IfCharacterStamina>0</IfCharacterStamina>
+      <IfCharacterExperience>0</IfCharacterExperience>
+      <IfCharacterLevel>0</IfCharacterLevel>
+      <IfCharacterProficiency>0</IfCharacterProficiency>
+      <IfCharacterResting>false</IfCharacterResting>
+      <IfExtra1Unlock>false</IfExtra1Unlock>
+      <IfExtra1Able>false</IfExtra1Able>
+      <IfExtra2Unlock>false</IfExtra2Unlock>
+      <IfExtra2Able>false</IfExtra2Able>
+      <IfMoneyUnder>0</IfMoneyUnder>
+      <IfMoneyOver>0</IfMoneyOver>
+      <IfDebtUnder>0</IfDebtUnder>
+      <IfDebtOver>0</IfDebtOver>
+      <IfBuildingReputation>0</IfBuildingReputation>
+      <IfBuildingNotoriety>0</IfBuildingNotoriety>
+      <IfBuildingLuxury>0</IfBuildingLuxury>
+      <IfBuildingTier>0</IfBuildingTier>
+      <IfBuildingUpgradeAble>false</IfBuildingUpgradeAble>
+      <IfBuildingUpgradeUnlock>false</IfBuildingUpgradeUnlock>
+      <IfBuildingUpgradeLevel>0</IfBuildingUpgradeLevel>
+      <IfRoomExistLevel>0</IfRoomExistLevel>
+      <IfItemInStockQuantity>0</IfItemInStockQuantity>
+    </Dialog>
+  </DialogsContainer>
+  <CharactersContainer>
+    <Character>
+      <FirstName>Brackey</FirstName>
+      <NickName>Brackey</NickName>
+      <Unlock>true</Unlock>
+      <Able>true</Able>
+      <Schedual />
+      <RequiredReputation>0</RequiredReputation>
+      <RequiredNotoriety>0</RequiredNotoriety>
+      <RequiredLuxury>0</RequiredLuxury>
+      <RequiredTier>0</RequiredTier>
+      <Happiness>0</Happiness>
+      <Resilience>0</Resilience>
+      <Money>0</Money>
+      <Inventory />
+      <BirthdayDay>0</BirthdayDay>
+      <FavoriteGifts />
+      <IncapacitatedTicks>0</IncapacitatedTicks>
+      <ID>36</ID>
+      <MainCharacter>false</MainCharacter>
+      <Relationship>0</Relationship>
+      <Intimacy>0</Intimacy>
+      <Loyalty>0</Loyalty>
+      <Slot>0</Slot>
+      <WorkCost>0</WorkCost>
+      <WorkPayDebt>0</WorkPayDebt>
+      <Stamina>100</Stamina>
+      <Experience>0</Experience>
+      <Level>1</Level>
+      <Proficiency>1</Proficiency>
+      <Resting>false</Resting>
+      <TimeOff>false</TimeOff>
+      <Modifiers>
+        <string>Reputation</string>
+        <string>Notoriety</string>
+        <string>Luxury</string>
+      </Modifiers>
+      <ModifiersValues>
+        <float>1</float>
+        <float>1</float>
+        <float>1</float>
+      </ModifiersValues>
+    </Character>
+  </CharactersContainer>
+  <SlotLayoutTemplate>
+    <SlotLayout>
+      <ID>0</ID>
+      <SlotLayoutId>0</SlotLayoutId>
+      <SlotLayoutName>Small Manson</SlotLayoutName>
+      <SlotLayoutMaxSlots>12</SlotLayoutMaxSlots>
+      <SlotLayoutSlotX />
+      <SlotLayoutSlotY />
+    </SlotLayout>
+    <SlotLayout>
+      <ID>0</ID>
+      <SlotLayoutId>1</SlotLayoutId>
+      <SlotLayoutName>Medium Manson</SlotLayoutName>
+      <SlotLayoutMaxSlots>18</SlotLayoutMaxSlots>
+      <SlotLayoutSlotX />
+      <SlotLayoutSlotY />
+    </SlotLayout>
+    <SlotLayout>
+      <ID>0</ID>
+      <SlotLayoutId>2</SlotLayoutId>
+      <SlotLayoutName>Large Manson</SlotLayoutName>
+      <SlotLayoutMaxSlots>24</SlotLayoutMaxSlots>
+      <SlotLayoutSlotX />
+      <SlotLayoutSlotY />
+    </SlotLayout>
+  </SlotLayoutTemplate>
+  <RoomsTemplates>
+    <Room>
+      <ID>7</ID>
+      <Name>Outside</Name>
+      <Description>Elsewhere</Description>
+      <SlotInImage>None</SlotInImage>
+      <SlotOutImage>None</SlotOutImage>
+      <Icon>None</Icon>
+      <ConstructionOrder>false</ConstructionOrder>
+      <ConstructionTime>0</ConstructionTime>
+      <ConstructionCost>0</ConstructionCost>
+      <DeconstructionOrder>false</DeconstructionOrder>
+      <DeconstructionTime>0</DeconstructionTime>
+      <DeconstructionCost>0</DeconstructionCost>
+      <UpgradingOrder>false</UpgradingOrder>
+      <RepairOrder>false</RepairOrder>
+      <RepairLevel>100</RepairLevel>
+      <RepairCost>0</RepairCost>
+      <HouseSlot>0</HouseSlot>
+      <Unlock>true</Unlock>
+      <Able>true</Able>
+      <Removable>false</Removable>
+      <Locked>false</Locked>
+      <Empty>false</Empty>
+      <Tier>0</Tier>
+      <WorkersCapacity>20</WorkersCapacity>
+      <WorkersList>
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+      </WorkersList>
+      <WorkType>None</WorkType>
+      <ProductionItems />
+      <Modifiers>
+        <string>Reputation</string>
+        <string>Notoriety</string>
+        <string>Luxury</string>
+      </Modifiers>
+      <ModifiersValues>
+        <float>1</float>
+        <float>1</float>
+        <float>1</float>
+      </ModifiersValues>
+    </Room>
+    <Room>
+      <ID>1</ID>
+      <Name>Locked Room</Name>
+      <Description>Seams that this door is shut tight, I wander what is in the other side</Description>
+      <SlotInImage>None</SlotInImage>
+      <SlotOutImage>None</SlotOutImage>
+      <Icon>None</Icon>
+      <ConstructionOrder>false</ConstructionOrder>
+      <ConstructionTime>0</ConstructionTime>
+      <ConstructionCost>0</ConstructionCost>
+      <DeconstructionOrder>false</DeconstructionOrder>
+      <DeconstructionTime>0</DeconstructionTime>
+      <DeconstructionCost>0</DeconstructionCost>
+      <UpgradingOrder>false</UpgradingOrder>
+      <RepairOrder>false</RepairOrder>
+      <RepairLevel>100</RepairLevel>
+      <RepairCost>0</RepairCost>
+      <HouseSlot>0</HouseSlot>
+      <Unlock>false</Unlock>
+      <Able>false</Able>
+      <Removable>true</Removable>
+      <Locked>true</Locked>
+      <Empty>true</Empty>
+      <Tier>0</Tier>
+      <WorkersCapacity>0</WorkersCapacity>
+      <WorkersList />
+      <WorkType>None</WorkType>
+      <ProductionItems />
+      <Modifiers>
+        <string>Reputation</string>
+        <string>Notoriety</string>
+        <string>Luxury</string>
+      </Modifiers>
+      <ModifiersValues>
+        <float>1</float>
+        <float>1</float>
+        <float>1</float>
+      </ModifiersValues>
+    </Room>
+    <Room>
+      <ID>12</ID>
+      <Name>Empty Room</Name>
+      <Description>Just a dusty room full of spider webs. Boy sis is going to have a lot of work cleaning this up.</Description>
+      <SlotInImage>emptyroom</SlotInImage>
+      <SlotOutImage>None</SlotOutImage>
+      <Icon>None</Icon>
+      <ConstructionOrder>false</ConstructionOrder>
+      <ConstructionTime>0</ConstructionTime>
+      <ConstructionCost>100</ConstructionCost>
+      <DeconstructionOrder>false</DeconstructionOrder>
+      <DeconstructionTime>0</DeconstructionTime>
+      <DeconstructionCost>0</DeconstructionCost>
+      <UpgradingOrder>false</UpgradingOrder>
+      <RepairOrder>false</RepairOrder>
+      <RepairLevel>82</RepairLevel>
+      <RepairCost>1</RepairCost>
+      <HouseSlot>5</HouseSlot>
+      <Unlock>true</Unlock>
+      <Able>false</Able>
+      <Removable>true</Removable>
+      <Locked>false</Locked>
+      <Empty>true</Empty>
+      <Tier>0</Tier>
+      <WorkersCapacity>3</WorkersCapacity>
+      <WorkersList>
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+      </WorkersList>
+      <WorkType>None</WorkType>
+      <ProductionItems />
+      <Modifiers>
+        <string>Reputation</string>
+        <string>Notoriety</string>
+        <string>Luxury</string>
+      </Modifiers>
+      <ModifiersValues>
+        <float>1</float>
+        <float>1</float>
+        <float>1</float>
+      </ModifiersValues>
+    </Room>
+    <Room>
+      <ID>11</ID>
+      <Name>Office</Name>
+      <Description>It's a simple office. Nothing special but slightful less gloomy then the rest of the house.</Description>
+      <SlotInImage>office</SlotInImage>
+      <SlotOutImage>None</SlotOutImage>
+      <Icon>None</Icon>
+      <ConstructionOrder>false</ConstructionOrder>
+      <ConstructionTime>0</ConstructionTime>
+      <ConstructionCost>100</ConstructionCost>
+      <DeconstructionOrder>false</DeconstructionOrder>
+      <DeconstructionTime>0</DeconstructionTime>
+      <DeconstructionCost>50</DeconstructionCost>
+      <UpgradingOrder>false</UpgradingOrder>
+      <RepairOrder>false</RepairOrder>
+      <RepairLevel>82</RepairLevel>
+      <RepairCost>12</RepairCost>
+      <HouseSlot>4</HouseSlot>
+      <Unlock>true</Unlock>
+      <Able>true</Able>
+      <Removable>false</Removable>
+      <Locked>false</Locked>
+      <Empty>false</Empty>
+      <Tier>0</Tier>
+      <WorkersCapacity>1</WorkersCapacity>
+      <WorkersList>
+        <string xsi:nil="true" />
+      </WorkersList>
+      <WorkType>Services</WorkType>
+      <ProductionItems />
+      <Modifiers>
+        <string>Reputation</string>
+        <string>Notoriety</string>
+        <string>Luxury</string>
+      </Modifiers>
+      <ModifiersValues>
+        <float>1</float>
+        <float>1</float>
+        <float>1</float>
+      </ModifiersValues>
+    </Room>
+    <Room>
+      <ID>9</ID>
+      <Name>Destillary</Name>
+      <Description>The heart of this operation. I'm getting drunk just entering here</Description>
+      <SlotInImage>destillary</SlotInImage>
+      <SlotOutImage>None</SlotOutImage>
+      <Icon>None</Icon>
+      <ConstructionOrder>false</ConstructionOrder>
+      <ConstructionTime>0</ConstructionTime>
+      <ConstructionCost>500</ConstructionCost>
+      <DeconstructionOrder>false</DeconstructionOrder>
+      <DeconstructionTime>0</DeconstructionTime>
+      <DeconstructionCost>250</DeconstructionCost>
+      <UpgradingOrder>false</UpgradingOrder>
+      <RepairOrder>false</RepairOrder>
+      <RepairLevel>81</RepairLevel>
+      <RepairCost>2</RepairCost>
+      <HouseSlot>2</HouseSlot>
+      <Unlock>true</Unlock>
+      <Able>true</Able>
+      <Removable>true</Removable>
+      <Locked>false</Locked>
+      <Empty>false</Empty>
+      <Tier>1</Tier>
+      <WorkersCapacity>3</WorkersCapacity>
+      <WorkersList>
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+      </WorkersList>
+      <WorkType>Production</WorkType>
+      <ProductionItems>
+        <string>Moonshine</string>
+      </ProductionItems>
+      <Modifiers>
+        <string>Reputation</string>
+        <string>Notoriety</string>
+        <string>Luxury</string>
+      </Modifiers>
+      <ModifiersValues>
+        <float>1</float>
+        <float>1</float>
+        <float>1</float>
+      </ModifiersValues>
+    </Room>
+    <Room>
+      <ID>10</ID>
+      <Name>Winery</Name>
+      <Description>For the blood of Christ just squize those grapes.</Description>
+      <SlotInImage>None</SlotInImage>
+      <SlotOutImage>None</SlotOutImage>
+      <Icon>None</Icon>
+      <ConstructionOrder>false</ConstructionOrder>
+      <ConstructionTime>0</ConstructionTime>
+      <ConstructionCost>600</ConstructionCost>
+      <DeconstructionOrder>false</DeconstructionOrder>
+      <DeconstructionTime>0</DeconstructionTime>
+      <DeconstructionCost>300</DeconstructionCost>
+      <UpgradingOrder>false</UpgradingOrder>
+      <RepairOrder>false</RepairOrder>
+      <RepairLevel>75</RepairLevel>
+      <RepairCost>5</RepairCost>
+      <HouseSlot>3</HouseSlot>
+      <Unlock>true</Unlock>
+      <Able>true</Able>
+      <Removable>true</Removable>
+      <Locked>false</Locked>
+      <Empty>false</Empty>
+      <Tier>1</Tier>
+      <WorkersCapacity>3</WorkersCapacity>
+      <WorkersList>
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+      </WorkersList>
+      <WorkType>Production</WorkType>
+      <ProductionItems>
+        <string>Cheap Wine</string>
+      </ProductionItems>
+      <Modifiers>
+        <string>Reputation</string>
+        <string>Notoriety</string>
+        <string>Luxury</string>
+      </Modifiers>
+      <ModifiersValues>
+        <float>1</float>
+        <float>1</float>
+        <float>1</float>
+      </ModifiersValues>
+    </Room>
+    <Room>
+      <ID>8</ID>
+      <Name>Speak Easy</Name>
+      <Description>Everyone enjoys a good cup of tea.</Description>
+      <SlotInImage>speakeasy</SlotInImage>
+      <SlotOutImage>None</SlotOutImage>
+      <Icon>None</Icon>
+      <ConstructionOrder>false</ConstructionOrder>
+      <ConstructionTime>0</ConstructionTime>
+      <ConstructionCost>800</ConstructionCost>
+      <DeconstructionOrder>false</DeconstructionOrder>
+      <DeconstructionTime>0</DeconstructionTime>
+      <DeconstructionCost>400</DeconstructionCost>
+      <UpgradingOrder>false</UpgradingOrder>
+      <RepairOrder>false</RepairOrder>
+      <RepairLevel>91</RepairLevel>
+      <RepairCost>7</RepairCost>
+      <HouseSlot>1</HouseSlot>
+      <Unlock>true</Unlock>
+      <Able>true</Able>
+      <Removable>true</Removable>
+      <Locked>false</Locked>
+      <Empty>false</Empty>
+      <Tier>1</Tier>
+      <WorkersCapacity>3</WorkersCapacity>
+      <WorkersList>
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+      </WorkersList>
+      <WorkType>Selling</WorkType>
+      <ProductionItems />
+      <Modifiers>
+        <string>Reputation</string>
+        <string>Notoriety</string>
+        <string>Luxury</string>
+      </Modifiers>
+      <ModifiersValues>
+        <float>1</float>
+        <float>1</float>
+        <float>1</float>
+      </ModifiersValues>
+    </Room>
+  </RoomsTemplates>
+  <SlotsContainer>
+    <Room>
+      <ID>7</ID>
+      <Name>Outside</Name>
+      <Description>Elsewhere</Description>
+      <SlotInImage>None</SlotInImage>
+      <SlotOutImage>None</SlotOutImage>
+      <Icon>None</Icon>
+      <ConstructionOrder>false</ConstructionOrder>
+      <ConstructionTime>0</ConstructionTime>
+      <ConstructionCost>0</ConstructionCost>
+      <DeconstructionOrder>false</DeconstructionOrder>
+      <DeconstructionTime>0</DeconstructionTime>
+      <DeconstructionCost>0</DeconstructionCost>
+      <UpgradingOrder>false</UpgradingOrder>
+      <RepairOrder>false</RepairOrder>
+      <RepairLevel>100</RepairLevel>
+      <RepairCost>0</RepairCost>
+      <HouseSlot>0</HouseSlot>
+      <Unlock>true</Unlock>
+      <Able>true</Able>
+      <Removable>false</Removable>
+      <Locked>false</Locked>
+      <Empty>false</Empty>
+      <Tier>0</Tier>
+      <WorkersCapacity>20</WorkersCapacity>
+      <WorkersList>
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+      </WorkersList>
+      <WorkType>None</WorkType>
+      <ProductionItems />
+      <Modifiers>
+        <string>Reputation</string>
+        <string>Notoriety</string>
+        <string>Luxury</string>
+      </Modifiers>
+      <ModifiersValues>
+        <float>1</float>
+        <float>1</float>
+        <float>1</float>
+      </ModifiersValues>
+    </Room>
+    <Room>
+      <ID>8</ID>
+      <Name>Speak Easy</Name>
+      <Description>Everyone enjoys a good cup of tea.</Description>
+      <SlotInImage>speakeasy</SlotInImage>
+      <SlotOutImage>None</SlotOutImage>
+      <Icon>None</Icon>
+      <ConstructionOrder>false</ConstructionOrder>
+      <ConstructionTime>0</ConstructionTime>
+      <ConstructionCost>800</ConstructionCost>
+      <DeconstructionOrder>false</DeconstructionOrder>
+      <DeconstructionTime>0</DeconstructionTime>
+      <DeconstructionCost>400</DeconstructionCost>
+      <UpgradingOrder>false</UpgradingOrder>
+      <RepairOrder>false</RepairOrder>
+      <RepairLevel>91</RepairLevel>
+      <RepairCost>7</RepairCost>
+      <HouseSlot>1</HouseSlot>
+      <Unlock>true</Unlock>
+      <Able>true</Able>
+      <Removable>true</Removable>
+      <Locked>false</Locked>
+      <Empty>false</Empty>
+      <Tier>1</Tier>
+      <WorkersCapacity>3</WorkersCapacity>
+      <WorkersList>
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+      </WorkersList>
+      <WorkType>Selling</WorkType>
+      <ProductionItems />
+      <Modifiers>
+        <string>Reputation</string>
+        <string>Notoriety</string>
+        <string>Luxury</string>
+      </Modifiers>
+      <ModifiersValues>
+        <float>1</float>
+        <float>1</float>
+        <float>1</float>
+      </ModifiersValues>
+    </Room>
+    <Room>
+      <ID>9</ID>
+      <Name>Destillary</Name>
+      <Description>The heart of this operation. I'm getting drunk just entering here</Description>
+      <SlotInImage>destillary</SlotInImage>
+      <SlotOutImage>None</SlotOutImage>
+      <Icon>None</Icon>
+      <ConstructionOrder>false</ConstructionOrder>
+      <ConstructionTime>0</ConstructionTime>
+      <ConstructionCost>500</ConstructionCost>
+      <DeconstructionOrder>false</DeconstructionOrder>
+      <DeconstructionTime>0</DeconstructionTime>
+      <DeconstructionCost>250</DeconstructionCost>
+      <UpgradingOrder>false</UpgradingOrder>
+      <RepairOrder>false</RepairOrder>
+      <RepairLevel>81</RepairLevel>
+      <RepairCost>2</RepairCost>
+      <HouseSlot>2</HouseSlot>
+      <Unlock>true</Unlock>
+      <Able>true</Able>
+      <Removable>true</Removable>
+      <Locked>false</Locked>
+      <Empty>false</Empty>
+      <Tier>1</Tier>
+      <WorkersCapacity>3</WorkersCapacity>
+      <WorkersList>
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+      </WorkersList>
+      <WorkType>Production</WorkType>
+      <ProductionItems>
+        <string>Moonshine</string>
+      </ProductionItems>
+      <Modifiers>
+        <string>Reputation</string>
+        <string>Notoriety</string>
+        <string>Luxury</string>
+      </Modifiers>
+      <ModifiersValues>
+        <float>1</float>
+        <float>1</float>
+        <float>1</float>
+      </ModifiersValues>
+    </Room>
+    <Room>
+      <ID>10</ID>
+      <Name>Winery</Name>
+      <Description>For the blood of Christ just squize those grapes.</Description>
+      <SlotInImage>None</SlotInImage>
+      <SlotOutImage>None</SlotOutImage>
+      <Icon>None</Icon>
+      <ConstructionOrder>false</ConstructionOrder>
+      <ConstructionTime>0</ConstructionTime>
+      <ConstructionCost>600</ConstructionCost>
+      <DeconstructionOrder>false</DeconstructionOrder>
+      <DeconstructionTime>0</DeconstructionTime>
+      <DeconstructionCost>300</DeconstructionCost>
+      <UpgradingOrder>false</UpgradingOrder>
+      <RepairOrder>false</RepairOrder>
+      <RepairLevel>75</RepairLevel>
+      <RepairCost>5</RepairCost>
+      <HouseSlot>3</HouseSlot>
+      <Unlock>true</Unlock>
+      <Able>true</Able>
+      <Removable>true</Removable>
+      <Locked>false</Locked>
+      <Empty>false</Empty>
+      <Tier>1</Tier>
+      <WorkersCapacity>3</WorkersCapacity>
+      <WorkersList>
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+      </WorkersList>
+      <WorkType>Production</WorkType>
+      <ProductionItems>
+        <string>Cheap Wine</string>
+      </ProductionItems>
+      <Modifiers>
+        <string>Reputation</string>
+        <string>Notoriety</string>
+        <string>Luxury</string>
+      </Modifiers>
+      <ModifiersValues>
+        <float>1</float>
+        <float>1</float>
+        <float>1</float>
+      </ModifiersValues>
+    </Room>
+    <Room>
+      <ID>11</ID>
+      <Name>Office</Name>
+      <Description>It's a simple office. Nothing special but slightful less gloomy then the rest of the house.</Description>
+      <SlotInImage>office</SlotInImage>
+      <SlotOutImage>None</SlotOutImage>
+      <Icon>None</Icon>
+      <ConstructionOrder>false</ConstructionOrder>
+      <ConstructionTime>0</ConstructionTime>
+      <ConstructionCost>100</ConstructionCost>
+      <DeconstructionOrder>false</DeconstructionOrder>
+      <DeconstructionTime>0</DeconstructionTime>
+      <DeconstructionCost>50</DeconstructionCost>
+      <UpgradingOrder>false</UpgradingOrder>
+      <RepairOrder>false</RepairOrder>
+      <RepairLevel>82</RepairLevel>
+      <RepairCost>12</RepairCost>
+      <HouseSlot>4</HouseSlot>
+      <Unlock>true</Unlock>
+      <Able>true</Able>
+      <Removable>false</Removable>
+      <Locked>false</Locked>
+      <Empty>false</Empty>
+      <Tier>0</Tier>
+      <WorkersCapacity>1</WorkersCapacity>
+      <WorkersList>
+        <string xsi:nil="true" />
+      </WorkersList>
+      <WorkType>Services</WorkType>
+      <ProductionItems />
+      <Modifiers>
+        <string>Reputation</string>
+        <string>Notoriety</string>
+        <string>Luxury</string>
+      </Modifiers>
+      <ModifiersValues>
+        <float>1</float>
+        <float>1</float>
+        <float>1</float>
+      </ModifiersValues>
+    </Room>
+    <Room>
+      <ID>12</ID>
+      <Name>Empty Room</Name>
+      <Description>Just a dusty room full of spider webs. Boy sis is going to have a lot of work cleaning this up.</Description>
+      <SlotInImage>emptyroom</SlotInImage>
+      <SlotOutImage>None</SlotOutImage>
+      <Icon>None</Icon>
+      <ConstructionOrder>false</ConstructionOrder>
+      <ConstructionTime>0</ConstructionTime>
+      <ConstructionCost>100</ConstructionCost>
+      <DeconstructionOrder>false</DeconstructionOrder>
+      <DeconstructionTime>0</DeconstructionTime>
+      <DeconstructionCost>0</DeconstructionCost>
+      <UpgradingOrder>false</UpgradingOrder>
+      <RepairOrder>false</RepairOrder>
+      <RepairLevel>82</RepairLevel>
+      <RepairCost>1</RepairCost>
+      <HouseSlot>5</HouseSlot>
+      <Unlock>true</Unlock>
+      <Able>false</Able>
+      <Removable>true</Removable>
+      <Locked>false</Locked>
+      <Empty>true</Empty>
+      <Tier>0</Tier>
+      <WorkersCapacity>3</WorkersCapacity>
+      <WorkersList>
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+        <string xsi:nil="true" />
+      </WorkersList>
+      <WorkType>None</WorkType>
+      <ProductionItems />
+      <Modifiers>
+        <string>Reputation</string>
+        <string>Notoriety</string>
+        <string>Luxury</string>
+      </Modifiers>
+      <ModifiersValues>
+        <float>1</float>
+        <float>1</float>
+        <float>1</float>
+      </ModifiersValues>
+    </Room>
+    <Room>
+      <ID>13</ID>
+      <Name>Locked Room</Name>
+      <Description>Seams that this door is shut tight, I wander what is in the other side</Description>
+      <SlotInImage>None</SlotInImage>
+      <SlotOutImage>None</SlotOutImage>
+      <Icon>None</Icon>
+      <ConstructionOrder>false</ConstructionOrder>
+      <ConstructionTime>0</ConstructionTime>
+      <ConstructionCost>0</ConstructionCost>
+      <DeconstructionOrder>false</DeconstructionOrder>
+      <DeconstructionTime>0</DeconstructionTime>
+      <DeconstructionCost>0</DeconstructionCost>
+      <UpgradingOrder>false</UpgradingOrder>
+      <RepairOrder>false</RepairOrder>
+      <RepairLevel>100</RepairLevel>
+      <RepairCost>0</RepairCost>
+      <HouseSlot>6</HouseSlot>
+      <Unlock>false</Unlock>
+      <Able>false</Able>
+      <Removable>true</Removable>
+      <Locked>true</Locked>
+      <Empty>true</Empty>
+      <Tier>0</Tier>
+      <WorkersCapacity>0</WorkersCapacity>
+      <WorkersList />
+      <WorkType>None</WorkType>
+      <ProductionItems />
+      <Modifiers>
+        <string>Reputation</string>
+        <string>Notoriety</string>
+        <string>Luxury</string>
+      </Modifiers>
+      <ModifiersValues>
+        <float>1</float>
+        <float>1</float>
+        <float>1</float>
+      </ModifiersValues>
+    </Room>
+    <Room>
+      <ID>14</ID>
+      <Name>Locked Room</Name>
+      <Description>Seams that this door is shut tight, I wander what is in the other side</Description>
+      <SlotInImage>None</SlotInImage>
+      <SlotOutImage>None</SlotOutImage>
+      <Icon>None</Icon>
+      <ConstructionOrder>false</ConstructionOrder>
+      <ConstructionTime>0</ConstructionTime>
+      <ConstructionCost>0</ConstructionCost>
+      <DeconstructionOrder>false</DeconstructionOrder>
+      <DeconstructionTime>0</DeconstructionTime>
+      <DeconstructionCost>0</DeconstructionCost>
+      <UpgradingOrder>false</UpgradingOrder>
+      <RepairOrder>false</RepairOrder>
+      <RepairLevel>100</RepairLevel>
+      <RepairCost>0</RepairCost>
+      <HouseSlot>7</HouseSlot>
+      <Unlock>false</Unlock>
+      <Able>false</Able>
+      <Removable>true</Removable>
+      <Locked>true</Locked>
+      <Empty>true</Empty>
+      <Tier>0</Tier>
+      <WorkersCapacity>0</WorkersCapacity>
+      <WorkersList />
+      <WorkType>None</WorkType>
+      <ProductionItems />
+      <Modifiers>
+        <string>Reputation</string>
+        <string>Notoriety</string>
+        <string>Luxury</string>
+      </Modifiers>
+      <ModifiersValues>
+        <float>1</float>
+        <float>1</float>
+        <float>1</float>
+      </ModifiersValues>
+    </Room>
+    <Room>
+      <ID>15</ID>
+      <Name>Locked Room</Name>
+      <Description>Seams that this door is shut tight, I wander what is in the other side</Description>
+      <SlotInImage>None</SlotInImage>
+      <SlotOutImage>None</SlotOutImage>
+      <Icon>None</Icon>
+      <ConstructionOrder>false</ConstructionOrder>
+      <ConstructionTime>0</ConstructionTime>
+      <ConstructionCost>0</ConstructionCost>
+      <DeconstructionOrder>false</DeconstructionOrder>
+      <DeconstructionTime>0</DeconstructionTime>
+      <DeconstructionCost>0</DeconstructionCost>
+      <UpgradingOrder>false</UpgradingOrder>
+      <RepairOrder>false</RepairOrder>
+      <RepairLevel>100</RepairLevel>
+      <RepairCost>0</RepairCost>
+      <HouseSlot>8</HouseSlot>
+      <Unlock>false</Unlock>
+      <Able>false</Able>
+      <Removable>true</Removable>
+      <Locked>true</Locked>
+      <Empty>true</Empty>
+      <Tier>0</Tier>
+      <WorkersCapacity>0</WorkersCapacity>
+      <WorkersList />
+      <WorkType>None</WorkType>
+      <ProductionItems />
+      <Modifiers>
+        <string>Reputation</string>
+        <string>Notoriety</string>
+        <string>Luxury</string>
+      </Modifiers>
+      <ModifiersValues>
+        <float>1</float>
+        <float>1</float>
+        <float>1</float>
+      </ModifiersValues>
+    </Room>
+    <Room>
+      <ID>16</ID>
+      <Name>Locked Room</Name>
+      <Description>Seams that this door is shut tight, I wander what is in the other side</Description>
+      <SlotInImage>None</SlotInImage>
+      <SlotOutImage>None</SlotOutImage>
+      <Icon>None</Icon>
+      <ConstructionOrder>false</ConstructionOrder>
+      <ConstructionTime>0</ConstructionTime>
+      <ConstructionCost>0</ConstructionCost>
+      <DeconstructionOrder>false</DeconstructionOrder>
+      <DeconstructionTime>0</DeconstructionTime>
+      <DeconstructionCost>0</DeconstructionCost>
+      <UpgradingOrder>false</UpgradingOrder>
+      <RepairOrder>false</RepairOrder>
+      <RepairLevel>100</RepairLevel>
+      <RepairCost>0</RepairCost>
+      <HouseSlot>9</HouseSlot>
+      <Unlock>false</Unlock>
+      <Able>false</Able>
+      <Removable>true</Removable>
+      <Locked>true</Locked>
+      <Empty>true</Empty>
+      <Tier>0</Tier>
+      <WorkersCapacity>0</WorkersCapacity>
+      <WorkersList />
+      <WorkType>None</WorkType>
+      <ProductionItems />
+      <Modifiers>
+        <string>Reputation</string>
+        <string>Notoriety</string>
+        <string>Luxury</string>
+      </Modifiers>
+      <ModifiersValues>
+        <float>1</float>
+        <float>1</float>
+        <float>1</float>
+      </ModifiersValues>
+    </Room>
+    <Room>
+      <ID>17</ID>
+      <Name>Locked Room</Name>
+      <Description>Seams that this door is shut tight, I wander what is in the other side</Description>
+      <SlotInImage>None</SlotInImage>
+      <SlotOutImage>None</SlotOutImage>
+      <Icon>None</Icon>
+      <ConstructionOrder>false</ConstructionOrder>
+      <ConstructionTime>0</ConstructionTime>
+      <ConstructionCost>0</ConstructionCost>
+      <DeconstructionOrder>false</DeconstructionOrder>
+      <DeconstructionTime>0</DeconstructionTime>
+      <DeconstructionCost>0</DeconstructionCost>
+      <UpgradingOrder>false</UpgradingOrder>
+      <RepairOrder>false</RepairOrder>
+      <RepairLevel>100</RepairLevel>
+      <RepairCost>0</RepairCost>
+      <HouseSlot>10</HouseSlot>
+      <Unlock>false</Unlock>
+      <Able>false</Able>
+      <Removable>true</Removable>
+      <Locked>true</Locked>
+      <Empty>true</Empty>
+      <Tier>0</Tier>
+      <WorkersCapacity>0</WorkersCapacity>
+      <WorkersList />
+      <WorkType>None</WorkType>
+      <ProductionItems />
+      <Modifiers>
+        <string>Reputation</string>
+        <string>Notoriety</string>
+        <string>Luxury</string>
+      </Modifiers>
+      <ModifiersValues>
+        <float>1</float>
+        <float>1</float>
+        <float>1</float>
+      </ModifiersValues>
+    </Room>
+    <Room>
+      <ID>18</ID>
+      <Name>Locked Room</Name>
+      <Description>Seams that this door is shut tight, I wander what is in the other side</Description>
+      <SlotInImage>None</SlotInImage>
+      <SlotOutImage>None</SlotOutImage>
+      <Icon>None</Icon>
+      <ConstructionOrder>false</ConstructionOrder>
+      <ConstructionTime>0</ConstructionTime>
+      <ConstructionCost>0</ConstructionCost>
+      <DeconstructionOrder>false</DeconstructionOrder>
+      <DeconstructionTime>0</DeconstructionTime>
+      <DeconstructionCost>0</DeconstructionCost>
+      <UpgradingOrder>false</UpgradingOrder>
+      <RepairOrder>false</RepairOrder>
+      <RepairLevel>100</RepairLevel>
+      <RepairCost>0</RepairCost>
+      <HouseSlot>11</HouseSlot>
+      <Unlock>false</Unlock>
+      <Able>false</Able>
+      <Removable>true</Removable>
+      <Locked>true</Locked>
+      <Empty>true</Empty>
+      <Tier>0</Tier>
+      <WorkersCapacity>0</WorkersCapacity>
+      <WorkersList />
+      <WorkType>None</WorkType>
+      <ProductionItems />
+      <Modifiers>
+        <string>Reputation</string>
+        <string>Notoriety</string>
+        <string>Luxury</string>
+      </Modifiers>
+      <ModifiersValues>
+        <float>1</float>
+        <float>1</float>
+        <float>1</float>
+      </ModifiersValues>
+    </Room>
+  </SlotsContainer>
+  <BuildingUpgradeContainer>
+    <BuildingUpgrade>
+      <ID>19</ID>
+      <Name>Door Holder</Name>
+      <Description>A big rock holding the door. What did you expected, a fucking Hordor?</Description>
+      <Unlock>true</Unlock>
+      <Able>false</Able>
+      <Price>0</Price>
+      <Tier>0</Tier>
+      <Modifiers />
+      <ModifiersValues />
+    </BuildingUpgrade>
+  </BuildingUpgradeContainer>
+  <ItemsTemplates>
+    <Item>
+      <ID>31</ID>
+      <Name>Lint Ball</Name>
+      <Description>It's a simple lint ball. Nothing special about it</Description>
+      <Unlock>true</Unlock>
+      <Able>true</Able>
+      <Unsellable>false</Unsellable>
+      <InventoryType>PersonalItem</InventoryType>
+      <Quantity>1</Quantity>
+      <BuyPrice>0</BuyPrice>
+      <SellPrice>0</SellPrice>
+      <ProductionBatch>0</ProductionBatch>
+      <ProductionCost>0</ProductionCost>
+      <RisesHappines>0</RisesHappines>
+      <Modifiers />
+      <ModifiersValues />
+    </Item>
+    <Item>
+      <ID>32</ID>
+      <Name>Empty Bottle</Name>
+      <Description>Yeah! Perfect to be fill up with booze.</Description>
+      <Unlock>true</Unlock>
+      <Able>true</Able>
+      <Unsellable>false</Unsellable>
+      <InventoryType>PersonalItem</InventoryType>
+      <Quantity>1</Quantity>
+      <BuyPrice>0</BuyPrice>
+      <SellPrice>0</SellPrice>
+      <ProductionBatch>0</ProductionBatch>
+      <ProductionCost>0</ProductionCost>
+      <RisesHappines>0</RisesHappines>
+      <Modifiers />
+      <ModifiersValues />
+    </Item>
+    <Item>
+      <ID>33</ID>
+      <Name>Moonshine</Name>
+      <Description>Best way to wake up in the morning with an hangover and a fresh tattoo.</Description>
+      <Unlock>true</Unlock>
+      <Able>true</Able>
+      <Unsellable>false</Unsellable>
+      <InventoryType>PersonalItem</InventoryType>
+      <Quantity>1</Quantity>
+      <BuyPrice>0</BuyPrice>
+      <SellPrice>3</SellPrice>
+      <ProductionBatch>10</ProductionBatch>
+      <ProductionCost>1</ProductionCost>
+      <RisesHappines>3</RisesHappines>
+      <Modifiers />
+      <ModifiersValues />
+    </Item>
+    <Item>
+      <ID>34</ID>
+      <Name>Cheap Wine</Name>
+      <Description>Was good as the price.</Description>
+      <Unlock>true</Unlock>
+      <Able>true</Able>
+      <Unsellable>false</Unsellable>
+      <InventoryType>PersonalItem</InventoryType>
+      <Quantity>1</Quantity>
+      <BuyPrice>0</BuyPrice>
+      <SellPrice>5</SellPrice>
+      <ProductionBatch>10</ProductionBatch>
+      <ProductionCost>2</ProductionCost>
+      <RisesHappines>4</RisesHappines>
+      <Modifiers />
+      <ModifiersValues />
+    </Item>
+    <Item>
+      <ID>35</ID>
+      <Name>Key</Name>
+      <Description>Looks like a door key</Description>
+      <Unlock>true</Unlock>
+      <Able>true</Able>
+      <Unsellable>false</Unsellable>
+      <InventoryType>PersonalItem</InventoryType>
+      <Quantity>1</Quantity>
+      <BuyPrice>0</BuyPrice>
+      <SellPrice>0</SellPrice>
+      <ProductionBatch>0</ProductionBatch>
+      <ProductionCost>0</ProductionCost>
+      <RisesHappines>0</RisesHappines>
+      <Modifiers />
+      <ModifiersValues />
+    </Item>
+  </ItemsTemplates>
+  <ModifiersTemplates />
+  <ModifiersContainer />
+  <AchivementsTemplates>
+    <Achivement>
+      <ID>28</ID>
+      <Name>Loud mouth</Name>
+      <Description>You don't know when to shut the fuck up. </Description>
+      <Icon />
+      <Unlock>true</Unlock>
+      <Able>true</Able>
+      <Modifiers />
+      <ModifiersValues />
+    </Achivement>
+    <Achivement>
+      <ID>29</ID>
+      <Name>Cocky</Name>
+      <Description>You're too smart for your own good.</Description>
+      <Icon />
+      <Unlock>true</Unlock>
+      <Able>true</Able>
+      <Modifiers />
+      <ModifiersValues />
+    </Achivement>
+    <Achivement>
+      <ID>30</ID>
+      <Name>Smart Lazy Ass</Name>
+      <Description>You manipulate others to do your work.</Description>
+      <Icon />
+      <Unlock>true</Unlock>
+      <Able>true</Able>
+      <Modifiers />
+      <ModifiersValues />
+    </Achivement>
+  </AchivementsTemplates>
+  <AchivementsContainer>
+    <Achivement>
+      <ID>28</ID>
+      <Name>Loud mouth</Name>
+      <Description>You don't know when to shut the fuck up. </Description>
+      <Icon />
+      <Unlock>true</Unlock>
+      <Able>true</Able>
+      <Modifiers />
+      <ModifiersValues />
+    </Achivement>
+    <Achivement>
+      <ID>29</ID>
+      <Name>Cocky</Name>
+      <Description>You're too smart for your own good.</Description>
+      <Icon />
+      <Unlock>true</Unlock>
+      <Able>true</Able>
+      <Modifiers />
+      <ModifiersValues />
+    </Achivement>
+    <Achivement>
+      <ID>30</ID>
+      <Name>Smart Lazy Ass</Name>
+      <Description>You manipulate others to do your work.</Description>
+      <Icon />
+      <Unlock>true</Unlock>
+      <Able>true</Able>
+      <Modifiers />
+      <ModifiersValues />
+    </Achivement>
+  </AchivementsContainer>
+  <ClientsTemplates>
+    <Client>
+      <NickName>Lazy Drunk</NickName>
+      <Description>Some lazy ass drunk. 'Hey pal! Don't you dare fall at sleep in here this ain't your home.' </Description>
+      <Unlock>false</Unlock>
+      <Able>false</Able>
+      <Schedual>
+        <string>Morning</string>
+        <string>Afternoon</string>
+        <string>Evening</string>
+        <string>Night</string>
+      </Schedual>
+      <RequiredReputation>0</RequiredReputation>
+      <RequiredNotoriety>0</RequiredNotoriety>
+      <RequiredLuxury>0</RequiredLuxury>
+      <RequiredTier>0</RequiredTier>
+      <Happiness>50</Happiness>
+      <Resilience>5</Resilience>
+      <Money>22</Money>
+      <Inventory />
+      <ID>0</ID>
+      <WishesRooms />
+      <WishesService />
+      <WishesProducts>
+        <string>Moonshine</string>
+      </WishesProducts>
+      <MoneyStartMax>25</MoneyStartMax>
+      <MoneyStartMin>5</MoneyStartMin>
+      <ConsuptionCycle>5</ConsuptionCycle>
+      <ConsuptionDelay>3</ConsuptionDelay>
+      <ConsuptionCounter>1</ConsuptionCounter>
+    </Client>
+    <Client>
+      <NickName>Old Pro Skirt</NickName>
+      <Description>Some old prostitute. 'For those who ain't picky about their women anything will do.'</Description>
+      <Unlock>false</Unlock>
+      <Able>false</Able>
+      <Schedual>
+        <string>Morning</string>
+        <string>Afternoon</string>
+        <string>Evening</string>
+        <string>Night</string>
+      </Schedual>
+      <RequiredReputation>0</RequiredReputation>
+      <RequiredNotoriety>1</RequiredNotoriety>
+      <RequiredLuxury>0</RequiredLuxury>
+      <RequiredTier>0</RequiredTier>
+      <Happiness>50</Happiness>
+      <Resilience>1</Resilience>
+      <Money>10</Money>
+      <Inventory />
+      <ID>0</ID>
+      <WishesRooms />
+      <WishesService />
+      <WishesProducts>
+        <string>Cheap Wine</string>
+      </WishesProducts>
+      <MoneyStartMax>25</MoneyStartMax>
+      <MoneyStartMin>5</MoneyStartMin>
+      <ConsuptionCycle>2</ConsuptionCycle>
+      <ConsuptionDelay>1</ConsuptionDelay>
+      <ConsuptionCounter>1</ConsuptionCounter>
+    </Client>
+    <Client>
+      <NickName>Skid Rogue</NickName>
+      <Description>A suspicious bum. 'Don't try anything funny pal or you get beefed.'</Description>
+      <Unlock>false</Unlock>
+      <Able>false</Able>
+      <Schedual>
+        <string>Morning</string>
+        <string>Afternoon</string>
+        <string>Evening</string>
+        <string>Night</string>
+      </Schedual>
+      <RequiredReputation>0</RequiredReputation>
+      <RequiredNotoriety>0</RequiredNotoriety>
+      <RequiredLuxury>0</RequiredLuxury>
+      <RequiredTier>0</RequiredTier>
+      <Happiness>50</Happiness>
+      <Resilience>3</Resilience>
+      <Money>4</Money>
+      <Inventory />
+      <ID>0</ID>
+      <WishesRooms />
+      <WishesService />
+      <WishesProducts>
+        <string>Cheap Wine</string>
+      </WishesProducts>
+      <MoneyStartMax>5</MoneyStartMax>
+      <MoneyStartMin>3</MoneyStartMin>
+      <ConsuptionCycle>2</ConsuptionCycle>
+      <ConsuptionDelay>5</ConsuptionDelay>
+      <ConsuptionCounter>5</ConsuptionCounter>
+    </Client>
+    <Client>
+      <NickName>Tough Guy</NickName>
+      <Description>Low life criminal. 'Some guy from the streets looking for some poor bastard to mug'</Description>
+      <Unlock>false</Unlock>
+      <Able>false</Able>
+      <Schedual>
+        <string>Morning</string>
+        <string>Afternoon</string>
+        <string>Evening</string>
+        <string>Night</string>
+      </Schedual>
+      <RequiredReputation>0</RequiredReputation>
+      <RequiredNotoriety>0</RequiredNotoriety>
+      <RequiredLuxury>0</RequiredLuxury>
+      <RequiredTier>0</RequiredTier>
+      <Happiness>50</Happiness>
+      <Resilience>2</Resilience>
+      <Money>15</Money>
+      <Inventory />
+      <ID>0</ID>
+      <WishesRooms />
+      <WishesService />
+      <WishesProducts>
+        <string>Beer</string>
+      </WishesProducts>
+      <MoneyStartMax>20</MoneyStartMax>
+      <MoneyStartMin>5</MoneyStartMin>
+      <ConsuptionCycle>4</ConsuptionCycle>
+      <ConsuptionDelay>5</ConsuptionDelay>
+      <ConsuptionCounter>5</ConsuptionCounter>
+    </Client>
+    <Client>
+      <NickName>Crazy</NickName>
+      <Description>Bat shit crazy spook. 'I bet I could sell this guy on a pot of piss ah ah ah.'</Description>
+      <Unlock>false</Unlock>
+      <Able>false</Able>
+      <Schedual>
+        <string>Morning</string>
+        <string>Afternoon</string>
+        <string>Evening</string>
+        <string>Night</string>
+      </Schedual>
+      <RequiredReputation>0</RequiredReputation>
+      <RequiredNotoriety>0</RequiredNotoriety>
+      <RequiredLuxury>0</RequiredLuxury>
+      <RequiredTier>0</RequiredTier>
+      <Happiness>50</Happiness>
+      <Resilience>7</Resilience>
+      <Money>16</Money>
+      <Inventory />
+      <ID>0</ID>
+      <WishesRooms />
+      <WishesService />
+      <WishesProducts>
+        <string>Beer</string>
+      </WishesProducts>
+      <MoneyStartMax>50</MoneyStartMax>
+      <MoneyStartMin>5</MoneyStartMin>
+      <ConsuptionCycle>2</ConsuptionCycle>
+      <ConsuptionDelay>1</ConsuptionDelay>
+      <ConsuptionCounter>1</ConsuptionCounter>
+    </Client>
+    <Client>
+      <NickName>Drunk Sailor</NickName>
+      <Description>This guy can barelly stand. 'Hey ther matty, what can I serve you?'</Description>
+      <Unlock>false</Unlock>
+      <Able>false</Able>
+      <Schedual>
+        <string>Morning</string>
+        <string>Afternoon</string>
+        <string>Evening</string>
+        <string>Night</string>
+      </Schedual>
+      <RequiredReputation>0</RequiredReputation>
+      <RequiredNotoriety>0</RequiredNotoriety>
+      <RequiredLuxury>0</RequiredLuxury>
+      <RequiredTier>0</RequiredTier>
+      <Happiness>50</Happiness>
+      <Resilience>2</Resilience>
+      <Money>10</Money>
+      <Inventory />
+      <ID>0</ID>
+      <WishesRooms />
+      <WishesService />
+      <WishesProducts>
+        <string>Moonshine</string>
+      </WishesProducts>
+      <MoneyStartMax>15</MoneyStartMax>
+      <MoneyStartMin>5</MoneyStartMin>
+      <ConsuptionCycle>3</ConsuptionCycle>
+      <ConsuptionDelay>1</ConsuptionDelay>
+      <ConsuptionCounter>1</ConsuptionCounter>
+    </Client>
+  </ClientsTemplates>
+  <ClientsContainer>
+    <Client>
+      <NickName>Lazy Drunk</NickName>
+      <Description>Some lazy ass drunk. 'Hey pal! Don't you dare fall at sleep in here this ain't your home.' </Description>
+      <Unlock>false</Unlock>
+      <Able>false</Able>
+      <Schedual>
+        <string>Morning</string>
+        <string>Afternoon</string>
+        <string>Evening</string>
+        <string>Night</string>
+      </Schedual>
+      <RequiredReputation>0</RequiredReputation>
+      <RequiredNotoriety>0</RequiredNotoriety>
+      <RequiredLuxury>0</RequiredLuxury>
+      <RequiredTier>0</RequiredTier>
+      <Happiness>50</Happiness>
+      <Resilience>5</Resilience>
+      <Money>22</Money>
+      <Inventory />
+      <ID>0</ID>
+      <WishesRooms />
+      <WishesService />
+      <WishesProducts>
+        <string>Moonshine</string>
+      </WishesProducts>
+      <MoneyStartMax>25</MoneyStartMax>
+      <MoneyStartMin>5</MoneyStartMin>
+      <ConsuptionCycle>5</ConsuptionCycle>
+      <ConsuptionDelay>3</ConsuptionDelay>
+      <ConsuptionCounter>1</ConsuptionCounter>
+    </Client>
+  </ClientsContainer>
+  <NPCsContainer>
+    <NPC>
+      <FirstName>Officer</FirstName>
+      <LastName>Winer</LastName>
+      <Description>A pestering fellow with a bad habbit to barge in uninvited. Luckly he's also a drunk.</Description>
+      <Unlock>true</Unlock>
+      <Able>true</Able>
+      <Icon />
+      <Avatar />
+      <Schedual />
+      <RequiredReputation>0</RequiredReputation>
+      <RequiredNotoriety>0</RequiredNotoriety>
+      <RequiredLuxury>0</RequiredLuxury>
+      <RequiredTier>0</RequiredTier>
+      <Happiness>0</Happiness>
+      <Resilience>0</Resilience>
+      <Money>0</Money>
+      <Inventory />
+      <BirthdayDay>0</BirthdayDay>
+      <FavoriteGifts>
+        <string>Bribe</string>
+      </FavoriteGifts>
+      <IncapacitatedTicks>0</IncapacitatedTicks>
+      <ID>37</ID>
+      <Relationship>0</Relationship>
+      <PlaceInMap>Street</PlaceInMap>
+      <ShowAtDays>
+        <string>Friday</string>
+        <string>Monday</string>
+      </ShowAtDays>
+      <ShowAtMonths />
+    </NPC>
+  </NPCsContainer>
+  <ID>0</ID>
+  <TimeStamp>3/22/2019 10:49:21 PM</TimeStamp>
+  <DisableStrategicGame>false</DisableStrategicGame>
+  <DisableDialogOptions>false</DisableDialogOptions>
+  <ActTick>0</ActTick>
+  <ActHour>0</ActHour>
+  <ActDay>1</ActDay>
+  <WeekdayNames>
+    <string>Monday</string>
+    <string>Tuesday</string>
+    <string>Wednesday</string>
+    <string>Thursday</string>
+    <string>Friday</string>
+    <string>Saturday</string>
+    <string>Sunday</string>
+  </WeekdayNames>
+  <ActWeekday>Monday</ActWeekday>
+  <MonthNames>
+    <string>January</string>
+    <string>February</string>
+    <string>March</string>
+    <string>April</string>
+    <string>May</string>
+    <string>June</string>
+    <string>July</string>
+    <string>August</string>
+    <string>September</string>
+    <string>October</string>
+    <string>November</string>
+    <string>December</string>
+  </MonthNames>
+  <ActMonth>January</ActMonth>
+  <ActYear>1920</ActYear>
+  <ActDayPart>Morning</ActDayPart>
+  <DayPartNames>
+    <string>Morning</string>
+    <string>Afternoon</string>
+    <string>Evening</string>
+    <string>Night</string>
+  </DayPartNames>
+  <ActMoney>10</ActMoney>
+  <ActDayIncome>0</ActDayIncome>
+  <ActMonthIncome>0</ActMonthIncome>
+  <ActDayExpenses>0</ActDayExpenses>
+  <ActMonthExpenses>0</ActMonthExpenses>
+  <ActDayClients>0</ActDayClients>
+  <ActMonthClients>0</ActMonthClients>
+  <ActDayClientsHappiness>0</ActDayClientsHappiness>
+  <ActMonthClientsHappiness>0</ActMonthClientsHappiness>
+  <LastDayIncome>0</LastDayIncome>
+  <LastMonthIncome>0</LastMonthIncome>
+  <LastDayExpenses>0</LastDayExpenses>
+  <LastMonthExpenses>0</LastMonthExpenses>
+  <LastDayClients>0</LastDayClients>
+  <LastMonthClients>0</LastMonthClients>
+  <LastDayClientsHappiness>0</LastDayClientsHappiness>
+  <LastMonthClientsHappiness>0</LastMonthClientsHappiness>
+  <ActTotalDebt>0</ActTotalDebt>
+  <DebtNames />
+  <DebtValues />
+  <ActDaySells>0</ActDaySells>
+  <LastDaySells>0</LastDaySells>
+  <ActMonthSells>0</ActMonthSells>
+  <LastMonthSells>0</LastMonthSells>
+  <PlayerCharisma>0</PlayerCharisma>
+  <PlayerFame>0</PlayerFame>
+  <PlayerFlatter>0</PlayerFlatter>
+  <PlayerWit>0</PlayerWit>
+  <PlayerPersuasion>0</PlayerPersuasion>
+  <PlayerBargain>0</PlayerBargain>
+  <BuildingSlotLayout>0</BuildingSlotLayout>
+  <BuildingOpen>false</BuildingOpen>
+  <BuildingReputation>1</BuildingReputation>
+  <BuildingNotoriety>1</BuildingNotoriety>
+  <BuildingLuxury>0</BuildingLuxury>
+  <BuildingTier>1</BuildingTier>
+  <InventoryTypesList>
+    <string>PersonalItem</string>
+    <string>StockItem</string>
+  </InventoryTypesList>
+  <BuildingInventoryType>PersonalItem</BuildingInventoryType>
+  <BuildingInventory />
+  <RoomWorkTypesList>
+    <string>None</string>
+    <string>Production</string>
+    <string>Selling</string>
+    <string>Services</string>
+  </RoomWorkTypesList>
+  <KickoutOrder>false</KickoutOrder>
+  <ClientsDynamics>
+    <int>2</int>
+    <int>5</int>
+    <int>10</int>
+    <int>2</int>
+    <int>3</int>
+    <int>6</int>
+    <int>11</int>
+    <int>3</int>
+    <int>4</int>
+    <int>7</int>
+    <int>12</int>
+    <int>4</int>
+    <int>7</int>
+    <int>12</int>
+    <int>17</int>
+    <int>5</int>
+    <int>8</int>
+    <int>18</int>
+    <int>28</int>
+    <int>17</int>
+    <int>13</int>
+    <int>26</int>
+    <int>35</int>
+    <int>28</int>
+    <int>11</int>
+    <int>18</int>
+    <int>13</int>
+    <int>6</int>
+  </ClientsDynamics>
+</Story>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ClassPreferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <saveNameSlots>
+    <string>empty</string>
+    <string>Slot 1 |  | 10/5/2018 9:23:23 PM</string>
+    <string>empty</string>
+    <string>empty</string>
+    <string>empty</string>
+    <string>empty</string>
+    <string>empty</string>
+    <string>empty</string>
+    <string>empty</string>
+    <string>empty</string>
+    <string>Slot 1 |  | 10/5/2018 9:11:53 PM</string>
+    <string>Slot 2 |  | 10/5/2018 9:11:54 PM</string>
+    <string>empty</string>
+    <string>empty</string>
+    <string>empty</string>
+    <string>empty</string>
+    <string>empty</string>
+    <string>empty</string>
+    <string>empty</string>
+    <string>Slot 1 |  | 10/5/2018 9:06:39 PM</string>
+    <string>Slot 2 |  | 10/5/2018 9:06:56 PM</string>
+    <string>empty</string>
+    <string>empty</string>
+    <string>empty</string>
+    <string>empty</string>
+    <string>empty</string>
+    <string>empty</string>
+  </saveNameSlots>
+  <masterVolume>0</masterVolume>
+  <musicVolume>0</musicVolume>
+  <effectVolume>0</effectVolume>
+  <voiceVolume>0</voiceVolume>
+  <windowed>false</windowed>
+  <resolutionX>0</resolutionX>
+  <resolutionY>0</resolutionY>
+  <hotEnabled>false</hotEnabled>
+</ClassPreferences>

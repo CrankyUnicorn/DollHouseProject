@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: aed9e7ce3e1dfa341a876a910dfdd8b4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: zai Royal Vogue Typewriter 1929
+  fontNames:
+  - zai Royal Vogue Typewriter 1929
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

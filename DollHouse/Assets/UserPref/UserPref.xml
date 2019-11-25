@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Preferences xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <saveNameSlots>
+    <string>Slot 0 |  | 15/11/2019 17:05:49</string>
+    <string>Slot 1 |  | 3/22/2019 10:49:21 PM</string>
+    <string>Slot 2 |  | 15/11/2019 17:08:39</string>
+    <string>Empty</string>
+    <string>Empty</string>
+    <string>Empty</string>
+    <string>Empty</string>
+    <string>Empty</string>
+    <string>Empty</string>
+  </saveNameSlots>
+  <slotToLoad>2</slotToLoad>
+  <Language>English</Language>
+  <UITheme>Roaring20s</UITheme>
+  <muteSound>false</muteSound>
+  <masterVolume>30</masterVolume>
+  <musicVolume>30</musicVolume>
+  <effectVolume>30</effectVolume>
+  <voiceVolume>30</voiceVolume>
+  <fullScreen>true</fullScreen>
+  <resolutionX>0</resolutionX>
+  <resolutionY>0</resolutionY>
+  <frameRate>30</frameRate>
+  <graphicQuality>Low</graphicQuality>
+  <editorEnabled>true</editorEnabled>
+  <editorType>Standard</editorType>
+  <hotEnabled>false</hotEnabled>
+</Preferences>
